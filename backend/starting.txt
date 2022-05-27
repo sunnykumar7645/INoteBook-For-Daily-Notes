@@ -1,0 +1,1 @@
+to start the first module we need to start index .js file with the help of  nodemon
